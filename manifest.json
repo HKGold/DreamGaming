@@ -1,0 +1,12 @@
+{
+  "name": "HKGold",
+  "short_name": "HKGold",
+  "theme_color": "#fff",
+  "background_color": "#fff",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "",
+  "icons": [
+  ]
+}
